@@ -1,2 +1,2 @@
-# Goretopia
-Goretopia is an sandbox mobile game.
+# GORETOPIA
+This is the Source Code of Goretopia. A mobile sandbox game made and published by Coffee Games.
